@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gururaj003
 - 👀 I’m interested in Web development, Android development, Data analysis and visualisation
-- 🌱 I’m currently learning Bachelor of Engineering (Computer science and engineering)
+- 🌱 I’m currently pursuing Bachelor of Engineering (Computer science and engineering)
 - 📧 guruprasadthangaraj03@gmail.com 
 - 📱 9524151569
 
